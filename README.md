@@ -43,7 +43,7 @@ Proyecto Web
 <li><strong>El Minotauro era un monstruo griego de griego que era mitad hombre y mitad toro</strong>
 <li>La bestia era famosa porque vivía dentro de un laberinto, donde devoraba 14 sacrificios humanos cada año.
 <li><em>Su cuerpo era completamente humano, aunque sus piernas y brazos estaban llenos de músculos casi sobrehumanos.</em>
-</ul
+</ul>
 
     </body>
 </html>
